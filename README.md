@@ -1,4 +1,5 @@
 # AudioNexus
+開發跨平台的 Web GUI（專案名稱：AudioNexus）以控制 DSP 設備，並透過 Claude 的 Model Context Protocol（MCP）實現多區域音訊系統使用者介面（GUI）平台儀表板的同步控制與管理，
 
 開發跨平台的 Web GUI（專案名稱：AudioNexus）以控制 DSP 設備，並透過 Claude 的 Model Context Protocol（MCP）實現多區域音訊系統使用者介面（GUI）平台儀表板的同步控制與管理，需要滿足以下主要需求：
 
